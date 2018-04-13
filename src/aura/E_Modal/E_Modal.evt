@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="E_Modal" >
+	<aura:attribute name="name" type="String" />
+</aura:event>
